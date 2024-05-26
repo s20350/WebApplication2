@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "3s19ugNeSJ9uYu9mvGonHcbJCpMSt6JGInVS2n/DeDA5dvMsdlHWlU1YMG8r0iKmRJTPrHQIbgjLgEJiHh+a2w==",
+  "success": true,
+  "projectFilePath": "/Users/michalswiostek/Desktop/Zad3App1/WebApplication2/WebApplication2/WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "/Users/michalswiostek/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.0/microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "/Users/michalswiostek/.nuget/packages/microsoft.entityframeworkcore/9.0.0-preview.4.24267.1/microsoft.entityframeworkcore.9.0.0-preview.4.24267.1.nupkg.sha512",
+    "/Users/michalswiostek/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.0-preview.4.24267.1/microsoft.entityframeworkcore.abstractions.9.0.0-preview.4.24267.1.nupkg.sha512",
+    "/Users/michalswiostek/.nuget/packages/microsoft.entityframeworkcore.analyzers/9.0.0-preview.4.24267.1/microsoft.entityframeworkcore.analyzers.9.0.0-preview.4.24267.1.nupkg.sha512",
+    "/Users/michalswiostek/.nuget/packages/microsoft.extensions.caching.abstractions/9.0.0-preview.4.24266.19/microsoft.extensions.caching.abstractions.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "/Users/michalswiostek/.nuget/packages/microsoft.extensions.caching.memory/9.0.0-preview.4.24266.19/microsoft.extensions.caching.memory.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "/Users/michalswiostek/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.0-preview.4.24266.19/microsoft.extensions.dependencyinjection.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "/Users/michalswiostek/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0-preview.4.24266.19/microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "/Users/michalswiostek/.nuget/packages/microsoft.extensions.logging/9.0.0-preview.4.24266.19/microsoft.extensions.logging.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "/Users/michalswiostek/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.0-preview.4.24266.19/microsoft.extensions.logging.abstractions.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "/Users/michalswiostek/.nuget/packages/microsoft.extensions.options/9.0.0-preview.4.24266.19/microsoft.extensions.options.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "/Users/michalswiostek/.nuget/packages/microsoft.extensions.primitives/9.0.0-preview.4.24266.19/microsoft.extensions.primitives.9.0.0-preview.4.24266.19.nupkg.sha512",
+    "/Users/michalswiostek/.nuget/packages/microsoft.net.illink.tasks/8.0.0/microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "/Users/michalswiostek/.nuget/packages/runtime.osx-arm64.microsoft.dotnet.ilcompiler/8.0.0/runtime.osx-arm64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
